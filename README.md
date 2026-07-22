@@ -1,4 +1,4 @@
-# PROYECTO: Tarjeta Digital (PWA – Aplicación Web Progresiva)- Atípico Hostel 
+# PROYECTO: Tarjeta Digital (PWA – Aplicación Web Progresiva).  Atípico Hostel 
 **Technical Stack:** Vanilla HTML5 / CSS3 / JavaScript  
 **Deployment:** [https://tarjeta-digital-hostel.vercel.app/]
 
