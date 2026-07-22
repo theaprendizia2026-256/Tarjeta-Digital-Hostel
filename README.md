@@ -1,6 +1,6 @@
 # PROYECTO: Tarjeta Digital - Atípico Hostel (PWA)
 **Technical Stack:** Vanilla HTML5 / CSS3 / JavaScript  
-**Deployment:** [https://tu-despliegue.vercel.app/]
+**Deployment:** [https://tarjeta-digital-hostel.vercel.app/]
 
 ## 1. Introducción
 Este sistema representa una solución de software orientada a la transición digital comercial para **Atípico Hostel** (Chillán, Chile). Se trata de una **Progressive Web App (PWA)** diseñada bajo una filosofía de arquitectura funcional y minimalista, optimizada para ofrecer una interfaz fluida, elegante y de alto rendimiento en dispositivos móviles.
